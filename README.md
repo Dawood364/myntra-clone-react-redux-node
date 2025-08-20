@@ -30,11 +30,11 @@ This project demonstrates **core e-commerce functionality** including product li
 
 ### ✅ Home Page
 
-![Home Page](public/HomeW.png)
+![Home Page](HomeW.png)
 
 ### ✅ Cart Page
 
-![Cart Page](public/Home.png)
+![Cart Page](Home.png)
 
 ## ⚡ Installation & Setup
 

@@ -30,7 +30,7 @@ This project demonstrates **core e-commerce functionality** including product li
 
 ### ✅ Home Page
 
-![Home Page](screenshots/Home.png)
+![Home Page](Home.png)
 ![Cart Page](screenshots/Home.png)
 
 ### ✅ Cart Page
